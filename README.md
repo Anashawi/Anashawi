@@ -47,7 +47,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> 
  <img
-      src="file:///C:/Users/JORDAN/Downloads/react.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"
       alt="nodejs" />
 
 
