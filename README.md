@@ -15,6 +15,11 @@
 - 📫 How to reach me **anas.moh.alhawi@gmail.com**
 
 - ⚡ Fun fact :-I love coding+learning+repeating ⚡
+- :high_brightness: <b>Special quality:</b> <br>
+        :beginner: Problem Solving <br>
+        :beginner: Tech Enthusiasts <br>
+        :beginner: Web Designing <br>
+        :beginner: Strategy <br>
 
 <br>
 
