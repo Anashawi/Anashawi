@@ -48,9 +48,9 @@
       alt="nodejs" width="40" height="40" /> </a> 
       
      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://miro.medium.com/max/766/0*r1BTGwo9cd8IGNQQ.jpeg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
       alt="nodejs" width="40" height="40" /> </a> 
-    
+   
       
 
 <br>
