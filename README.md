@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas alhawi</h1>
-<h3 align="center">Student at Meraki Academy🌟.</h3>
+<h3 align="center">Student at Meraki Academy🌟</h3>
 
 <br>
 
@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **anas.moh.alhawi@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Watch matches and Swim ....
 
 <br>
 
