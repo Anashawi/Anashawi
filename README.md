@@ -46,7 +46,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> 
-      
+      ![Alt]([/path/to/img.jpg](https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png))
      
 
 <br>
