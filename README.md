@@ -48,10 +48,10 @@
       alt="nodejs" width="40" height="40" /> </a> 
       
      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
+      src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.m.wikipedia.org%2Fwiki%2F%25D9%2585%25D9%2584%25D9%2581%3AMongoDB_Logo.svg&psig=AOvVaw08KcRsCdLfLxyBlbjUl1vT&ust=1665768308131000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIibsNPc3foCFQAAAAAdAAAAABAE"
       alt="nodejs" width="40" height="40" /> </a> 
    
-      
+     
 
 <br>
 
