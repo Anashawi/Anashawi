@@ -46,9 +46,10 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" >
  <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"
-      alt="nodejs" width="40" height= "40" />
+      alt="nodejs" width="40" height= "40" /></a>
 
 
 <br>
