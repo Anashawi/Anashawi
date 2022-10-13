@@ -46,7 +46,10 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> 
-  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+  ![Alt anas](https://static.javatpoint.com/blog/images/nodemon.png)
+  ![Alt text](/path/to/img.jpg)
+
+
 
 <br>
 
