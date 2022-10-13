@@ -17,7 +17,7 @@
 - ⚡ Fun fact :-I love coding+learning+repeating ⚡
 - :high_brightness: <b>Special quality:</b> <br>
         :beginner: Problem Solving <br>
-        :beginner: Tech Enthusiasts <br>
+        :beginner: ElasticSearch <br>
         :beginner: Web Designing <br>
         :beginner: Strategy <br>
 
