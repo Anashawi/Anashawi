@@ -50,7 +50,7 @@
      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://miro.medium.com/max/766/0*r1BTGwo9cd8IGNQQ.jpeg"
       alt="nodejs" width="40" height="40" /> </a> 
-     https://miro.medium.com/max/766/0*r1BTGwo9cd8IGNQQ.jpeg
+    
       
 
 <br>
