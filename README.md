@@ -51,9 +51,8 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
+      src="https://wiki.easyvista.com/xwiki/bin/download/Documentation/EV%20Observe%20-%20All%20Menus/Resources%20-%20EV%20Observe%20-%20Product%20Logos/WebHome/29.jpg?rev=1.1"
       alt="nodejs" width="40" height="40" /> </a> 
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png
 
 <br>
 <!--   ![Alt anas](https://static.javatpoint.com/blog/images/nodemon.png)
