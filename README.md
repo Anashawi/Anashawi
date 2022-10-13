@@ -47,7 +47,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> 
       
-     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+     <a href="https://nodejs.org" target="_blank" > <img
       src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.m.wikipedia.org%2Fwiki%2F%25D9%2585%25D9%2584%25D9%2581%3AMongoDB_Logo.svg&psig=AOvVaw08KcRsCdLfLxyBlbjUl1vT&ust=1665768308131000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIibsNPc3foCFQAAAAAdAAAAABAE"
       alt="nodejs" width="40" height="40" /> </a> 
    
