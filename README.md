@@ -48,7 +48,7 @@
       alt="nodejs" width="40" height="40" /> </a> 
  <img
       src="file:///C:/Users/JORDAN/Downloads/react.svg"
-      alt="nodejs" width="40" height="40" />
+      alt="nodejs" />
 
 
 <br>
