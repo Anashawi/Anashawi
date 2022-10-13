@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anas.moh.alhawi@gmail.com**
 
-- ⚡ Fun fact :- Watch matches and Swim ....
+- ⚡ Fun fact :-I love coding+learning+repeating⚡
 
 <br>
 
