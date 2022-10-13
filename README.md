@@ -47,10 +47,10 @@
  <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"
       alt="nodejs" width="40" height= "40" /></a>
-   <a href="https://www.w3schools.com/css/" target="_blank"
+   <a href="https://jquery.com/" target="_blank"
     rel="noreferrer"> <img
       src="https://cdn.imgbin.com/11/9/16/imgbin-web-development-jquery-ui-javascript-computer-icons-jqlogo-jquery-logo-G2ScC6mkwDh5BzHFmJr7cWiB1.jpg"
-" alt="css3"
+" alt="JQuery"
       width="40" height="40" /> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
