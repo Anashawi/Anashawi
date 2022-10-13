@@ -49,7 +49,7 @@
       alt="nodejs" width="40" height= "40" /></a>
    <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
-      src="https://mochikit.com/wp-content/uploads/2019/01/dom.png
+      src="https://cdn.imgbin.com/11/9/16/imgbin-web-development-jquery-ui-javascript-computer-icons-jqlogo-jquery-logo-G2ScC6mkwDh5BzHFmJr7cWiB1.jpg"
 " alt="css3"
       width="40" height="40" /> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
