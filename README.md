@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas alhawi</h1>
-<h3 align="center">Web Developer at Eskadenia company🌟</h3>
+<h3 align="center">Web Developer at Eskadenia Company🌟</h3>
 
 <br>
 
@@ -7,7 +7,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="280px" height="400px" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="anas-pw" width="280px" height="400px" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
